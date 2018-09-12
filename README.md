@@ -51,6 +51,7 @@ Various resources, such as books, websites and articles.
 
 - [Apache Beam Slack Channel](https://the-asf.slack.com/messages/beam) and [Invite to Join](http://s.apache.org/slack-invite)
 - [Twitter](https://twitter.com/ApacheBeam)
+- [/r/dataflow](http://reddit.com/r/dataflow)
 
 ## Books
 
